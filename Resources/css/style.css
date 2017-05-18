@@ -5,5 +5,12 @@ html {font-family: Verdana;
 h1 {font-size:50px;
     color:white;}
 
-h2 {font-size: 16px;
+h2 {font-size: 42px;
+font-weight: 300;
+color:white;}
+
+h3 a {font-size: 16px;
     color:aquamarine;}
+
+h4 {font-size: 21px;
+color: gray;}
