@@ -1,8 +1,9 @@
-html {font-family: Verdana;}
+html {font-family: Verdana;
+      text-align: center;
+      background-color: black;}
 
 h1 {font-size:50px;
-    color:white;
-    text-align: center;}
+    color:white;}
 
 h2 {font-size: 16px;
     color:aquamarine;}
